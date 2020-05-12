@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about_1.png</file>
+        <file>images/about_2.png</file>
+        <file>images/alert_1.png</file>
+        <file>images/config.png</file>
+        <file>images/home.png</file>
+        <file>images/maintain_1.png</file>
+        <file>images/config_charge_1.png</file>
+        <file>images/home_swap_2.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/home_swap_1.png</file>
+        <file>images/upgrade1.png</file>
+        <file>images/upgrade2.png</file>
+        <file>images/upgrade3.png</file>
+        <file>images/upgrade.png</file>
+        <file>images/upgrade_480.png</file>
+        <file>images/home_480.png</file>
+    </qresource>
+</RCC>
